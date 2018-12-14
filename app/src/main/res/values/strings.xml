@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Care</string>
+    <string name="password_hint">Password ....</string>
+    <string name="email_hint">Your Email ....</string>
+    <string name="login_logo_desc">Login Logo Page</string>
+    <string name="login_btn_text">Login To Account</string>
+    <string name="login_reg_btn_text">Need A New Account</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_search">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn_text">Create new Account</string>
+    <string name="reg_login_text">Already have an Account?</string>
+    <string name="reg_pass_text">Password ....</string>
+    <string name="reg_confirm_pass_text">Confirm Password ....</string>
+    <string name="setup_name_hint">Your Name ....</string>
+    <string name="setup_btn_name_text">Save Account Settings</string>
+    <string name="post_desc_hint">Add Description ....</string>
+    <string name="new_post_btn_hint">Post Blog</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_notification_text">Fitness</string>
+    <string name="bottom_ac_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account_button">Account Setup</string>
+    <string name="fitone">Body Mass Index</string>
+    <string name="fitness_bmi">Body Mass Index or BMI is an attempt to quantify the amount of tissue mass including muscle, fat and bone in an individual and categorize person as one of the specified categories.</string>
+    <string name="weight_hint">Weight(Kg)</string>
+    <string name="height_hint">Height(Meters)</string>
+    <string name="calculate_bmi">My BMI Please!</string>
+    <string name="result_bmi">My BMI</string>
+    <string name="bmi_result">My BMI</string>
+    <string name="fit_two">Common Disease Symptoms</string>
+    <string name="fit_three">Health Tips</string>
+    <string name="fit_four">Doctors and Hospitals</string>
+</resources>

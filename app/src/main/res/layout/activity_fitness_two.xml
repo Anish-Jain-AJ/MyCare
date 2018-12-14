@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:fillViewport="true">
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimary">
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_margin="4dp"
+                android:padding="4dp"
+                android:text="Dengue"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="173dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:layout_margin="4dp"
+                android:padding="4dp"
+                android:text="Pain in the abdomen, back, back of the eyes, bones, joints, or muscles, whole body chills, fatigue, fever, or loss of appetite,nausea or vomiting, skin rashes or red spots, easy bruising or headache"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:layout_width="158dp"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_margin="4dp"
+                android:padding="4dp"
+                android:text="Malaria"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="18dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:layout_margin="4dp"
+                android:padding="4dp"
+                android:text="Pain areas in the abdomen or muscles, whole body chills, fatigue, fever, night sweats, shivering, or sweating, diarrhoea, nausea, or vomiting, fast heart rate, headache, mental confusion, or pallor"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:layout_width="158dp"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_margin="4dp"
+                android:padding="4dp"
+                android:text="Typhoid"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="18dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:layout_margin="4dp"
+                android:padding="4dp"
+                android:text="Pain areas in the abdomen or muscles, bloating, constipation, diarrhoea, nausea, or vomiting, whole body fatigue, fever, chills, loss of appetite, or malaise, headache, muscle weakness, rash with small red dots, skin rash, or weight loss."
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="158dp"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_margin="4dp"
+                android:padding="4dp"
+                android:text="Flu"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:layout_margin="4dp"
+                android:padding="4dp"
+                android:text="Pain areas in the muscles, Cough can be dry or with phlegm, whole body chills, dehydration, fatigue, fever, flushing, loss of appetite, body ache, or sweating, Nasal: congestion, runny nose, or sneezing."
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+        </TableRow>
+
+    </TableLayout>
+</ScrollView>
